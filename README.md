@@ -36,4 +36,4 @@ My write-ups focus on my approach, the tools I used, and what I learned. I don't
 
 ## Connect With Me
 
-- LinkedIn: [add your profile link here]
+- LinkedIn: linkedin.com/in/nicole-r-m-00a9b3182 
