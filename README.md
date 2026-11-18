@@ -1,7 +1,7 @@
 # cybersecurity-portfolio
 Hands-on cybersecurity projects, labs, and write-ups documenting my path to becoming a security analyst.
 
-# About Me
+# About Me 
 
 Hi, I'm Nicole! I'm building a career in cybersecurity after 8+ years in administrative and data management work. I'm learning through hands-on labs and structured training, and this repository is where I document what I build and what I learn along the way.
 
